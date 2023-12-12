@@ -1,0 +1,21 @@
+NEW Set up notes:
+---------------------------------------------------------------------------------------------------------
+1. Use the archived version of eclipse from this site
+
+https://www.eclipse.org/downloads/packages/release/2020-03/r
+
+2. Download this version of eclipse
+
+https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-win32-x86_64.zip
+
+3. Extract (I have extracted to C:/ssalabs/eclipse)
+
+4. Use IBM WebSphere Application Server V8.5x Developer Tools from Eclipse market place
+
+https://marketplace.eclipse.org/content/ibm-websphere-application-server-v85x-developer-tools
+
+drag this software plugin from web browser and drop into running eclipse. It will open a dialog and prompt
+you to choose features.
+
+5. Follow the default settings and install it.
+-----------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+=========================
+This page appears at the end of the course and identifies 
+the release level of the course
+=========================
+Version information for course: WA2171
+CVS Release tag: REL_2_2
+Release date: July 16 2021

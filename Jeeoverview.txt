@@ -1,0 +1,92 @@
+Java EE Overview
+
+java enterprise edition
+
+https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee7
+
+Client (browser) ---->requests ----> server
+
+clients:
+browser
+desktop app
+mobile app
+different app
+
+
+Server:
+Your enterprise assets
+	-- database
+	-- directory servers (LDAP)
+	-- Message server
+	-- mail server
+	-- main frame
+	-- XA transactions servers
+	-- any third party cloud -- webservices
+
+Clients ----> Middleware ---> Server
+
+Middleware
+-- receive requests	PL
+-- validate requests	PL 
+-- process requests  BL ---> work with backend server resources SL
+-- generate results (data) BL
+-- prepare responses PL
+-- send responses PL
+
+
+PL -- Presentation Logic -- code that handles client
+BL -- Business Logic -- code that does main business work
+SL -- Services Logic OR Integration Logic -- integrates with backend resources
+
+
+we want the middleware to do these tasks in a scalable, highly available,
+secure, transactional, inter operable, portable etc *bles
+
+Java EE 8 -- 40+ technologies
+
+https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee8
+
+
+Java EE 7 -- 35+ technologies
+
+https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee7
+
+Java EE 6 -- 30+ technologies
+
+https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee6
+
+
+Middleware -- presentation logic layer (PL)-- web app tech
+		-- servlets, jsp, EL, JSF, CDI
+		+ business logic layer (BL) -- enterprise app tech
+		-- ejb, CDI
+		+ services/integration logic layer (SL OR IL) -- enterprise app tech + web services tech
+		jdbc, jms, java mail, jca, jta, webservices, etc
+		+ Java Runtime Environment
+
+
+Vendors implement JEE Specifications and API----> vendor product --- JEE server
+
+JEE server OR JEE runtime software
+
+IBM -- IBM WebSphere Application Server (WAS)
+Oracle -- Oracle WebLogic Server (WLS)
+RedHat -- RedHat JBOSS Enterprise Platform (EAP) -- open source JBossAS OR now Wildfly
+
+Apache Tomcat is java web server that implements 4 to 5 JEE technologies  + you can add more on your own.
+
+
+Vendor neutral -- ? Open source
+
+
+
+
+
+
+
+
+
+
+
+
+
