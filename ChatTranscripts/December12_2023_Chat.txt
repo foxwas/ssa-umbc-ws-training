@@ -1,0 +1,396 @@
+Stephanie 1:40 PM
+done
+
+Nikki DeBraccio 1:41 PM
+done
+
+Stephen Uphoff 1:41 PM
+done
+
+Harry Grant 1:41 PM
+done
+
+You 1:43 PM
+6/16 done
+
+ANANYA SIDDABATHULA 1:44 PM
+done
+
+You 1:44 PM
+7/16 done
+Let us take a break for 15 minutes
+enjoy break
+☕
+
+You 1:51 PM
+be back in 5 minutes
+
+Stephanie 1:52 PM
+done
+
+You 1:55 PM
+8/16 done
+
+Kent Phan 1:57 PM
+done
+
+You 1:58 PM
+9/16 done
+
+Medina Nurmanova 1:59 PM
+done
+
+Rohin Saxena 1:59 PM
+done
+
+You 2:00 PM
+11/16 done
+
+Deon Hill 2:00 PM
+done
+
+You 2:00 PM
+12/16 done
+
+Anh 2:00 PM
+done
+
+You 2:00 PM
+13/16 done
+
+Alex Iwumune 2:00 PM
+yes
+
+You 2:00 PM
+14/16 done
+
+Nikki DeBraccio 2:00 PM
+back
+
+Pramila Parajuli Gautam 2:00 PM
+Back
+
+Stephen Uphoff 2:03 PM
+yes
+
+Alex Iwumune 2:03 PM
+y
+
+ANANYA SIDDABATHULA 2:03 PM
+yes
+
+Sharon D Cook 2:03 PM
+y
+
+Nikki DeBraccio 2:03 PM
+y
+
+Harry Grant 2:03 PM
+yes
+
+You 2:06 PM
+Lab 7 now
+30 minutes
+
+You 2:18 PM
+done
+
+Sharon D Cook 2:22 PM
+Done
+
+You 2:30 PM
+how is it going?
+
+Nikki DeBraccio 2:32 PM
+about there
+
+Stephanie 2:32 PM
+done
+
+You 2:32 PM
+2/16 done
+
+Sharon D Cook  to  You (Direct Message) 2:33 PM
+3/16. I sent my Done at 2:22 :-)
+
+You  to  Sharon D Cook (Direct Message) 2:34 PM
+oh ok
+
+Nikki DeBraccio 2:34 PM
+done
+
+You 2:34 PM
+3/16 done
+4/16 done
+
+Kent Phan 2:34 PM
+done
+
+You 2:34 PM
+5/16 done
+
+Harry Grant 2:35 PM
+done
+
+You 2:36 PM
+6/16 done
+
+Stephen Uphoff 2:36 PM
+done, but I can only add one movie, it says max occurrence reached
+
+You 2:37 PM
+interesting
+did we make it 1 to many?
+
+Nikki DeBraccio 2:37 PM
+no
+
+You 2:40 PM
+run another instance of ws test explore
+
+You 2:40 PM
+r
+I can add 2 movies
+
+Stephen Uphoff 2:40 PM
+I noticed that you refreshed....it is letting me do that now
+
+You 2:42 PM
+I could add 3 movies
+
+Rohin Saxena 2:43 PM
+done.
+
+Stephen Uphoff 2:43 PM
+good to go
+
+ANANYA SIDDABATHULA 2:43 PM
+yep yep done
+
+Medina Nurmanova 2:43 PM
+done
+
+Kevin Li 2:43 PM
+done
+
+Pramila Parajuli Gautam 2:43 PM
+👍
+
+Abel 2:43 PM
+done
+
+You 2:43 PM
+12/16 done
+lab review at 2.51 pm ET
+
+Deon Hill 2:45 PM
+done
+
+You 2:45 PM
+13/16 done
+
+You 2:50 PM
+I am ready to review
+ready?
+
+Harry Grant 2:51 PM
+ready
+
+Nikki DeBraccio 2:51 PM
+go ahead
+
+Sharon D Cook 2:51 PM
+yes
+
+Medina Nurmanova 2:51 PM
+ready
+
+Kevin Li 2:51 PM
+y
+
+Stephen Uphoff 2:51 PM
+ready
+
+Alex Iwumune 2:51 PM
+yes
+
+Anh 2:51 PM
+ready
+
+ANANYA SIDDABATHULA 2:51 PM
+ready
+
+Sharon D Cook 2:54 PM
+y
+
+Alex Iwumune 2:54 PM
+yes
+
+Harry Grant 2:54 PM
+yes
+
+Stephen Uphoff 2:56 PM
+y
+
+Sharon D Cook 3:00 PM
+y
+
+ANANYA SIDDABATHULA 3:00 PM
+yes
+
+Harry Grant 3:01 PM
+yes
+
+Alex Iwumune 3:01 PM
+yes
+
+Sharon D Cook 3:03 PM
+y
+
+ANANYA SIDDABATHULA 3:04 PM
+sure
+
+Sharon D Cook 3:05 PM
+y
+
+Nikki DeBraccio 3:05 PM
+y
+
+Harry Grant 3:05 PM
+yes
+
+Sharon D Cook 3:06 PM
+sure
+yep
+no
+
+You 3:10 PM
+Lab 8 now
+45 minutes
+
+You 3:28 PM
+be back in 5 minutes
+☕
+I am back
+
+You 3:41 PM
+done
+😂
+
+You 3:46 PM
+How is it going?
+
+Sharon D Cook 3:46 PM
+good
+
+Nikki DeBraccio 3:47 PM
+I need to end for the day but will catch up on my own time. :-)
+see you tomorrow
+
+You 3:47 PM
+Ok Nikki
+Have a great evening
+
+ANANYA SIDDABATHULA 3:48 PM
+Still working
+
+Stephanie 3:49 PM
+done
+
+Sharon D Cook 3:50 PM
+Done
+
+You 3:50 PM
+2/16 done
+
+Sharon D Cook 3:50 PM
+Successfully added a movie: Love Jones :-)
+
+Sharon D Cook 3:51 PM
+Pretty cool what the comma separator does
+[12/12/23 12:49:42:633 PST] 000000c7 SystemOut     O Recieved a movie:
+[12/12/23 12:49:42:633 PST] 000000c7 SystemOut     O Title: Love Jones
+[12/12/23 12:49:42:633 PST] 000000c7 SystemOut     O Rating: PG13
+[12/12/23 12:49:42:633 PST] 000000c7 SystemOut     O Actor: Larenz Tate
+[12/12/23 12:49:42:634 PST] 000000c7 SystemOut     O Actor: Nia Long
+[12/12/23 12:49:42:634 PST] 000000c7 SystemOut     O Description: A love story
+
+You 3:51 PM
+Yeah.. 👍👍
+
+Kevin Li 3:54 PM
+done
+
+Harry Grant 3:54 PM
+currently in Part 3
+
+Stephen Uphoff 3:54 PM
+When it says to replace the code do I replace everything after doPost?
+
+Medina Nurmanova 3:54 PM
+done
+
+You 3:55 PM
+4/16 done
+
+ANANYA SIDDABATHULA 3:55 PM
+done!!!
+Kevin Li left
+
+ANANYA SIDDABATHULA 3:55 PM
+have a good one
+
+You 3:55 PM
+5/16 done
+Medina Nurmanova left
+ANANYA SIDDABATHULA left
+Deon Hill left
+
+Sharon D Cook 3:55 PM
+good night
+
+Stephanie 3:55 PM
+thanks!
+Stephanie left
+Sharon D Cook left
+Rohin Saxena left
+Kent Phan left
+
+Stephen Uphoff 4:05 PM
+Hey Fox, can you take a look at my screen when you get a chance?
+thanks
+Vafa Husain left
+Abel left
+
+Pramila Parajuli Gautam 4:14 PM
+Thank you!
+Pramila Parajuli Gautam left
+
+Anh 4:14 PM
+Done the lab.
+
+Anh 4:15 PM
+Have an excellent evening. See you tomorrow.
+Anh left
+
+Stephen Uphoff 4:16 PM
+one more error
+
+Stephen Uphoff 4:17 PM
+the stop sharing is at the top edge
+Harry Grant left
+
+Stephen Uphoff 4:18 PM
+wow
+thanks
+
+Stephen Uphoff 4:21 PM
+all done finally!  good night
+Stephen Uphoff left
+
+You 4:26 PM
+Can I close the class room?
+Alex Iwumune left
+
+You 4:26 PM
+Have a great evening!
