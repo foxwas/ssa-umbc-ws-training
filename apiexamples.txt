@@ -1,0 +1,7 @@
+API examples:
+
+https://www.flightapi.io/
+https://openweathermap.org/api
+https://finnhub.io/
+https://shopify.dev/api/storefront
+https://shopify.dev/api/admin-rest/2021-10/resources/product#top

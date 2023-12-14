@@ -1,0 +1,409 @@
+Vafa Husain 1:01 PM
+👍
+
+Stephen Uphoff 1:01 PM
+Yeah, the training has been great
+
+Alex Iwumune 1:01 PM
+enjoy the training
+
+Anh 1:01 PM
+good so far
+
+Rohin Saxena 1:01 PM
+👍
+
+Abel 1:01 PM
+👍
+
+Harry Grant 1:02 PM
+yes
+
+Anh 1:02 PM
+yes
+
+Alex Iwumune 1:02 PM
+y
+
+You 1:06 PM
+https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+Stephen Uphoff 1:13 PM
+no
+yes
+
+Sharon 1:17 PM
+y
+
+Alex Iwumune 1:17 PM
+y
+
+Rohin Saxena 1:17 PM
+y
+
+Harry Grant 1:17 PM
+yes
+
+You 1:28 PM
+https://grpc.io/
+
+Stephen Uphoff 1:40 PM
+no
+
+Sharon 1:40 PM
+n
+
+Harry Grant 1:40 PM
+no questions
+
+You 1:41 PM
+Lab 17 30 minutes
+
+Stephen Uphoff 1:41 PM
+yep
+
+You 1:54 PM
+done
+
+Stephen Uphoff 2:00 PM
+done
+
+Sharon 2:03 PM
+done
+
+Deon Hill 2:03 PM
+done
+
+Medina Nurmanova 2:03 PM
+done
+
+You 2:04 PM
+4/15 done
+cool!
+
+Kent 2:05 PM
+done
+
+You 2:05 PM
+5/15 done
+
+Rohin Saxena 2:05 PM
+done
+
+You 2:05 PM
+6/15 done
+
+ANANYA SIDDABATHULA 2:05 PM
+done
+
+You 2:06 PM
+7/15 done
+well done
+
+Harry Grant 2:06 PM
+done
+
+You 2:06 PM
+8/15 done
+
+Stephanie 2:07 PM
+done
+
+You 2:07 PM
+9/15 done
+excellent!
+
+Kevin Li 2:08 PM
+done
+
+Anh 2:08 PM
+done
+
+Alex Iwumune 2:09 PM
+Go ahead
+
+Abel 2:09 PM
+done
+
+Vafa Husain 2:09 PM
+DONE
+
+You 2:09 PM
+11/15 done
+13/15 done
+
+Pramila Parajuli Gautam 2:09 PM
+Almost done
+
+You 2:09 PM
+after lab, break -15 minutes
+next lecture at 2.30 pm ET
+
+You 2:15 PM
+☕break -15 minutes
+API examples:
+
+https://www.flightapi.io/
+https://openweathermap.org/api
+https://finnhub.io/
+https://shopify.dev/api/storefront
+https://shopify.dev/api/admin-rest/2021-10/resources/product#top
+https://www.programmableweb.com/news/10-most-popular-insurance-apis/brief/2019/03/25
+
+Vafa Husain  to  You (Direct Message) 2:28 PM
+Just a reminder, not sure if  you remember from my message on Monday, but I will have to leave the training today by 330 PM
+
+You  to  Vafa Husain (Direct Message) 2:28 PM
+yes. I remember.
+Ok. No worrie
+worries
+
+You 2:29 PM
+I am back and ready
+are you here and ready?
+
+Stephen Uphoff 2:30 PM
+ready
+
+Sharon 2:30 PM
+ready
+
+Medina Nurmanova 2:30 PM
+ready
+
+ANANYA SIDDABATHULA 2:30 PM
+ready
+
+Vafa Husain  to  You (Direct Message) 2:30 PM
+rdy
+
+Alex Iwumune 2:30 PM
+ready
+
+Stephanie 2:30 PM
+ready
+
+Kevin Li 2:30 PM
+ready
+
+Vafa Husain 2:30 PM
+rdy
+
+You 2:31 PM
+https://www.flightapi.io/
+
+Rohin Saxena 2:31 PM
+ready
+
+Stephen Uphoff 2:31 PM
+yes
+
+You 2:32 PM
+https://openweathermap.org/api
+https://finnhub.io/
+https://shopify.dev/api/admin-rest/2021-10/resources/product#top
+
+Stephen Uphoff 2:34 PM
+y
+
+Sharon 2:34 PM
+y
+
+Harry Grant 2:35 PM
+yes
+
+You 2:35 PM
+https://www.programmableweb.com/news/10-most-popular-insurance-apis/brief/2019/03/25
+
+Harry Grant 2:35 PM
+yes
+
+Alex Iwumune 2:36 PM
+y
+
+Sharon 2:37 PM
+great!
+
+Alex Iwumune 2:37 PM
+yes
+
+Harry Grant 2:37 PM
+😄
+
+Stephen Uphoff 2:37 PM
+y
+
+Kevin Li 2:37 PM
+👍
+
+Sharon 2:44 PM
+n
+
+Harry Grant 2:44 PM
+no questions
+
+Alex Iwumune 2:44 PM
+no
+
+Sharon 2:47 PM
+y
+
+Harry Grant 2:47 PM
+yes
+
+ANANYA SIDDABATHULA 2:47 PM
+yes
+
+Stephen Uphoff 2:47 PM
+y
+
+Stephen Uphoff 2:52 PM
+no
+
+Sharon 2:52 PM
+no
+
+You 2:52 PM
+Lab 18 now
+
+ANANYA SIDDABATHULA 2:52 PM
+no
+
+You 2:52 PM
+30 minutes
+after that lab, lab 19 design lab
+
+ANANYA SIDDABATHULA  to  You (Direct Message) 2:53 PM
+will we have access to the workspace when class is over tomorrow
+
+You 2:53 PM
+😂
+
+Stephen Uphoff 2:53 PM
+😃
+
+Sharon 2:53 PM
+🤩
+
+Harry Grant 2:53 PM
+😁
+
+ANANYA SIDDABATHULA 2:54 PM
+yep
+
+ANANYA SIDDABATHULA 2:55 PM
+yes
+
+Abel 2:55 PM
+no question
+
+Pramila Parajuli Gautam 2:55 PM
+👍
+
+Anh 2:55 PM
+:)
+
+Stephanie 2:55 PM
+😃
+
+You 2:55 PM
+Lab 18 and Lab 19
+
+Sharon  to  You (Direct Message) 3:07 PM
+Hi Fox, I will have the labs completed by tomorrow. I have a 3:30-5:00 meeting I need to attend and I need to restart my machine before the meeting
+have a great evening
+Sharon left
+
+You 3:25 PM
+How is it going?
+Half way through?
+
+Harry Grant 3:26 PM
+done with Lab 18
+Vafa Husain left
+
+Stephen Uphoff 3:31 PM
+Done 18 and 19
+
+You 3:31 PM
+Awesome!
+
+Kevin Li 3:36 PM
+done
+
+You 3:37 PM
+Well done
+
+Abel 3:37 PM
+done
+
+Anh 3:37 PM
+done
+
+Stephanie 3:37 PM
+done
+
+You 3:38 PM
+6/15 done
+
+ANANYA SIDDABATHULA 3:38 PM
+done
+
+You 3:38 PM
+7/15 done
+
+Medina Nurmanova 3:38 PM
+almost done
+
+Deon Hill 3:38 PM
+done
+
+You 3:39 PM
+9/15 done
+
+Rohin Saxena 3:39 PM
+done
+
+You 3:39 PM
+10/15
+fantastic !
+super cohort ! 👍👍
+
+Harry Grant 3:43 PM
+done with both Labs
+
+You 3:43 PM
+great job Harry!
+
+Kevin Li 3:48 PM
+👍
+
+Stephen Uphoff 3:48 PM
+Good night!
+
+You 3:48 PM
+Have a great evening!
+Stephen Uphoff left
+Harry Grant left
+Medina Nurmanova left
+Kevin Li left
+Kent left
+Alex Iwumune left
+Anh left
+
+Pramila Parajuli Gautam 3:48 PM
+Good evening
+Pramila Parajuli Gautam left
+
+ANANYA SIDDABATHULA 3:48 PM
+have a good one
+ANANYA SIDDABATHULA left
+Stephanie left
+
+Rohin Saxena 3:49 PM
+Thank you!
+
+Abel 3:49 PM
+Thanks
+Abel left
+Rohin Saxena left
